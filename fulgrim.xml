@@ -22,7 +22,7 @@ Graham McNeill paints a masterly portrait of a Legion brough low by their own hu
         <link>https://example.com/Fulgrim/chapter-1</link>
         <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
         <guid isPermaLink="false">episode0-unique-id</guid>
-        <enclosure url="https://drive.google.com/uc?export=download&id=1uZTvExntHrAPoTS1c2rBcag4NXhKByRP" type="audio/mpeg" length="12345678" />
+        <enclosure url="https://drive.google.com/uc?export=download"&"id=1uZTvExntHrAPoTS1c2rBcag4NXhKByRP" type="audio/mpeg" length="12345678" />
     </item>
 </channel>
 </rss>
