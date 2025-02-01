@@ -1,0 +1,28 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+    <title>Fulgrim</title>
+    <itunes:author>Graham McNeill</itunes:author>
+    <description>A Horus Heresy novel
+
+As the Great Crusade draws to a close, primarch Fulgrim and the Emperor's Children continue their pursuit of perfection. But pride comes before a fall, and this most proud of Legions is about to fall a very, very long way...
+
+READ IT BECAUSE
+Graham McNeill paints a masterly portrait of a Legion brough low by their own hubris. And we see the epic Dropsite Massacre of Isstvan V, and the death of a primarch. Doesn't get much bigger than that.</description>
+    <link>https://www.blacklibrary.com/the-horus-heresy/novels/fulgrim-ebook.html</link>
+    <image>
+        <url>https://m.media-amazon.com/images/I/51HHVXEq9LL.jpg</url>
+        <title>Fulgrim</title>
+        <link>https://www.blacklibrary.com/the-horus-heresy/novels/fulgrim-ebook.html</link>
+    </image>
+    <itunes:image href="https://m.media-amazon.com/images/I/51HHVXEq9LL.jpg" />
+
+    <item>
+        <title>Chapter 0</title>
+        <description>The first chapter of Fulgrim.</description>
+        <link>https://example.com/Fulgrim/chapter-1</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode0-unique-id</guid>
+        <enclosure url="https://drive.google.com/uc?export=download&id=1uZTvExntHrAPoTS1c2rBcag4NXhKByRP" type="audio/mpeg" length="12345678" />
+   
+</channel>
+</rss>
