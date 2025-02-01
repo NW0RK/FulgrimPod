@@ -2,27 +2,223 @@
 <channel>
     <title>Fulgrim</title>
     <itunes:author>Graham McNeill</itunes:author>
-    <description>A Horus Heresy novel
-
+    <description>
 As the Great Crusade draws to a close, primarch Fulgrim and the Emperor's Children continue their pursuit of perfection. But pride comes before a fall, and this most proud of Legions is about to fall a very, very long way...
-
-READ IT BECAUSE
-Graham McNeill paints a masterly portrait of a Legion brough low by their own hubris. And we see the epic Dropsite Massacre of Isstvan V, and the death of a primarch. Doesn't get much bigger than that.</description>
     <link>https://www.blacklibrary.com/the-horus-heresy/novels/fulgrim-ebook.html</link>
     <image>
-        <url>https://m.media-amazon.com/images/I/51HHVXEq9LL.jpg</url>
+        <url>https://m.media-amazon.com/images/I/91jNlJtiI5L._SL1500_.jpg</url>
         <title>Fulgrim</title>
         <link>https://www.blacklibrary.com/the-horus-heresy/novels/fulgrim-ebook.html</link>
     </image>
-    <itunes:image href="https://m.media-amazon.com/images/I/51HHVXEq9LL.jpg" />
+    <itunes:image href="https://m.media-amazon.com/images/I/91jNlJtiI5L._SL1500_.jpg" />
 
     <item>
         <title>Chapter 0</title>
-        <description>The first chapter of Fulgrim.</description>
-        <link>https://example.com/Fulgrim/chapter-1</link>
+        <description></description>
+        <link>https://example.com/Fulgrim/chapter-0</link>
         <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
         <guid isPermaLink="false">episode0-unique-id</guid>
         <enclosure url="https://drive.google.com/uc?export=download&amp;id=1uZTvExntHrAPoTS1c2rBcag4NXhKByRP" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>Chapter 1</title>
+        <description></description>
+        <link>https://example.com/Fulgrim/chapter-1</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode1-unique-id</guid>
+        <enclosure url="https://drive.google.com/uc?export=download&amp;id=1G0C6gcTjRydw_RSUjseGnK6QPK4KBXlG" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>Chapter 2</title>
+        <description></description>
+        <link>https://example.com/Fulgrim/chapter-2</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode2-unique-id</guid>
+        <enclosure url="https://drive.google.com/uc?export=download&amp;id=1FHZymI7MNkqq77MFVFoVuw_JWS0N4xFI" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>Chapter 3</title>
+        <description></description>
+        <link>https://example.com/Fulgrim/chapter-3</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode3-unique-id</guid>
+        <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XlN3j3oI2VwIjVGeyMEWalimSrKgBIb7" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>Chapter 4</title>
+        <description></description>
+        <link>https://example.com/Fulgrim/chapter-4</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode4-unique-id</guid>
+        <enclosure url="https://drive.google.com/uc?export=download&amp;id=17iQOiojT3NW5KHyjc9yU9-kk0OeWssQl" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>Chapter 5</title>
+        <description></description>
+        <link>https://example.com/Fulgrim/chapter-5</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode5-unique-id</guid>
+        <enclosure url="https://drive.google.com/uc?export=download&amp;id=1TFuS7_krYcNKzUB0fflBP9xhN6W_J02Q" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>Chapter 6</title>
+        <description></description>
+        <link>https://example.com/Fulgrim/chapter-6</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode6-unique-id</guid>
+        <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UhPJOESv4jKmPOn_gqInhziFIRkA4rxZ" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>Chapter 7</title>
+        <description></description>
+        <link>https://example.com/Fulgrim/chapter-7</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode7-unique-id</guid>
+        <enclosure url="https://drive.google.com/uc?export=download&amp;id=1NbZLqWB0-Ce6_hP-rbY5Qj_i4HkPzH0y" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>Chapter 8</title>
+        <description></description>
+        <link>https://example.com/Fulgrim/chapter-8</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode8-unique-id</guid>
+        <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qx9B1ANpVCkfPAMYOUZtuy7wHHHq_E1D" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>Chapter 9</title>
+        <description></description>
+        <link>https://example.com/Fulgrim/chapter-9</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode9-unique-id</guid>
+        <enclosure url="https://drive.google.com/uc?export=download&amp;id=1gUqzde97N643HLVdoePqTlhq2N6loHhx" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>Chapter 10</title>
+        <description></description>
+        <link>https://example.com/Fulgrim/chapter-10</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode10-unique-id</guid>
+        <enclosure url="https://drive.google.com/uc?export=download&amp;id=1xQdFNxOwJ9JJLEAh6sgoFWl1PbV9pCwn" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>Chapter 11</title>
+        <description></description>
+        <link>https://example.com/Fulgrim/chapter-11</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode11-unique-id</guid>
+        <enclosure url="https://drive.google.com/uc?export=download&amp;id=1jZHyvZM7OCXZovtO7IL5ejVy1gzZKE7F" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>Chapter 12</title>
+        <description></description>
+        <link>https://example.com/Fulgrim/chapter-12</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode12-unique-id</guid>
+        <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fOflRg5NemOIygl4nQav3jA9pdYFzVgF" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>Chapter 13</title>
+        <description></description>
+        <link>https://example.com/Fulgrim/chapter-13</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode13-unique-id</guid>
+        <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Le0kmT5qPmum1r3JrUR27xot6m3HR4ie" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>Chapter 14</title>
+        <description></description>
+        <link>https://example.com/Fulgrim/chapter-14</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode14-unique-id</guid>
+        <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sTne1NPqjR5bYDxUvXzXn6g1CpLC2fv5" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>Chapter 15</title>
+        <description></description>
+        <link>https://example.com/Fulgrim/chapter-15</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode15-unique-id</guid>
+        <enclosure url="https://drive.google.com/uc?export=download&amp;id=1SQg_9lwhXWMfU4B99TNCTT0S6gc5-GY2" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>Chapter 16</title>
+        <description></description>
+        <link>https://example.com/Fulgrim/chapter-16</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode16-unique-id</guid>
+        <enclosure url="https://drive.google.com/uc?export=download&amp;id=18bb6uSTDmsKVez0UweoZmn58gVYDv6H2" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>Chapter 17</title>
+        <description></description>
+        <link>https://example.com/Fulgrim/chapter-17</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode17-unique-id</guid>
+        <enclosure url="https://drive.google.com/uc?export=download&amp;id=1WhfCDUsLdBVkq5pAqKaqPBgybUA6hI7p" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>Chapter 18</title>
+        <description></description>
+        <link>https://example.com/Fulgrim/chapter-18</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode18-unique-id</guid>
+        <enclosure url="https://drive.google.com/uc?export=download&amp;id=1IwhqRRJ9chsxBKxOvENMD0clZbcfnAPh" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>Chapter 19</title>
+        <description></description>
+        <link>https://example.com/Fulgrim/chapter-19</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode19-unique-id</guid>
+        <enclosure url="https://drive.google.com/uc?export=download&amp;id=15L1xpYCMnnRBMdr2WVa4pPimfYtrsNTC" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>Chapter 20</title>
+        <description></description>
+        <link>https://example.com/Fulgrim/chapter-20</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode20-unique-id</guid>
+        <enclosure url="https://drive.google.com/uc?export=download&amp;id=1RmxWZua5hqy143HReA3VjYsOf2YSugTj" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>Chapter 21</title>
+        <description></description>
+        <link>https://example.com/Fulgrim/chapter-21</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode21-unique-id</guid>
+        <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Q0hX7WV26rBXfwBhGDZZhc6PpViuv6np" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>Chapter 22</title>
+        <description></description>
+        <link>https://example.com/Fulgrim/chapter-22</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode22-unique-id</guid>
+        <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Oul6OXkZOLZmdfktqNCfLvoj5sroxigN" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>Chapter 23</title>
+        <description></description>
+        <link>https://example.com/Fulgrim/chapter-23</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode23-unique-id</guid>
+        <enclosure url="https://drive.google.com/uc?export=download&amp;id=15IxzZHunfWdTxe9Y7iUmTvz_qzhxG2Oh" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>Chapter 24</title>
+        <description></description>
+        <link>https://example.com/Fulgrim/chapter-24</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode24-unique-id</guid>
+        <enclosure url="https://drive.google.com/uc?export=download&amp;id=1MnWZs-bL43L4-uhlJWejtqf9MP3kN0qn" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>Chapter 25</title>
+        <description></description>
+        <link>https://example.com/Fulgrim/chapter-25</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode25-unique-id</guid>
+        <enclosure url="https://drive.google.com/uc?export=download&amp;id=1s31s_vzKyo3GFDiQgUeEWdrsAvTBj4dB" type="audio/mpeg" length="12345678" />
     </item>
 </channel>
 </rss>
